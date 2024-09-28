@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **E-commerce Website**
+- 🤝 I’m looking for help with **Ecommerce-Store**
 
 - 📫 How to reach me **joshivarun108@gmail.com**
 
